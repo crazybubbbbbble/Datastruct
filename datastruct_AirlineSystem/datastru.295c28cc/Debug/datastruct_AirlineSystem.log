@@ -1,0 +1,3 @@
+﻿  datastruct_AirlineSystem.cpp
+F:\visual stdio\datastruct_AirlineSystem\customers.h(8,16): warning C4091: “typedef ”: 没有声明变量时忽略“Cus”的左侧
+  datastruct_AirlineSystem.vcxproj -> F:\visual stdio\datastruct_AirlineSystem\Debug\datastruct_AirlineSystem.exe

@@ -1,0 +1,6 @@
+﻿  datastruct&Sort.cpp
+F:\visual stdio\datastruct_Sort\Sort.h(11,16): warning C4091: “typedef ”: 没有声明变量时忽略“Sqlist”的左侧
+F:\visual stdio\datastruct_Sort\Sort.h(33,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+F:\visual stdio\datastruct_Sort\Sort.h(90,1): warning C4715: “Search_Sqlist”: 不是所有的控件路径都返回值
+F:\visual stdio\datastruct_Sort\Sort.h(107,1): warning C4715: “Change_Sqlist”: 不是所有的控件路径都返回值
+  datastruct&Find.vcxproj -> F:\visual stdio\datastruct_Sort\x64\Debug\datastruct&Sort.exe

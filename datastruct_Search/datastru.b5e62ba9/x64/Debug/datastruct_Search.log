@@ -1,0 +1,5 @@
+﻿  datastruct_Search.cpp
+F:\visual stdio\datastruct_Search\Sqlist.h(6,16): warning C4091: “typedef ”: 没有声明变量时忽略“Sqlist”的左侧
+F:\visual stdio\datastruct_Search\Sqlist.h(86,1): warning C4715: “Search_Sqlist”: 不是所有的控件路径都返回值
+F:\visual stdio\datastruct_Search\Sqlist.h(103,1): warning C4715: “Change_Sqlist”: 不是所有的控件路径都返回值
+  datastruct_Search.vcxproj -> F:\visual stdio\datastruct_Search\x64\Debug\datastruct_Search.exe
