@@ -1,0 +1,8 @@
+﻿  main.cpp
+F:\visual stdio\datastruct_stack&queue\Queue.h(9,7): error C2143: 语法错误: 缺少“;”(在“*”的前面)
+F:\visual stdio\datastruct_stack&queue\Queue.h(9,2): error C4430: 缺少类型说明符 - 假定为 int。注意: C++ 不支持默认 int
+F:\visual stdio\datastruct_stack&queue\Queue.h(9,13): error C2238: 意外的标记位于“;”之前
+F:\visual stdio\datastruct_stack&queue\Queue.h(44,11): error C2039: "next": 不是 "Qnode" 的成员
+F:\visual stdio\datastruct_stack&queue\Queue.h(45,10): error C2039: "next": 不是 "Qnode" 的成员
+F:\visual stdio\datastruct_stack&queue\Queue.h(53,11): error C2039: "next": 不是 "Qnode" 的成员
+F:\visual stdio\datastruct_stack&queue\Queue.h(68,20): error C2039: "next": 不是 "Qnode" 的成员

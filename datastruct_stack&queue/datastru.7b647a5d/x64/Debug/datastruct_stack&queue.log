@@ -1,0 +1,8 @@
+﻿  main.cpp
+F:\visual stdio\datastruct_stack&queue\Char_Stack.h(98,1): warning C4715: “C_Peek_stack”: 不是所有的控件路径都返回值
+F:\visual stdio\datastruct_stack&queue\Char_Stack.h(88,1): warning C4715: “C_Pop_stack”: 不是所有的控件路径都返回值
+F:\visual stdio\datastruct_stack&queue\Double_Stack.h(99,1): warning C4715: “D_Peek_stack”: 不是所有的控件路径都返回值
+F:\visual stdio\datastruct_stack&queue\Double_Stack.h(89,1): warning C4715: “D_Pop_stack”: 不是所有的控件路径都返回值
+F:\visual stdio\datastruct_stack&queue\main.cpp(23,1): warning C4715: “caculate”: 不是所有的控件路径都返回值
+F:\visual stdio\datastruct_stack&queue\main.cpp(53,1): warning C4715: “relationship”: 不是所有的控件路径都返回值
+  datastruct_stack&queue.vcxproj -> F:\visual stdio\datastruct_stack&queue\x64\Debug\datastruct_stack&queue.exe

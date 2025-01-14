@@ -1,0 +1,4 @@
+﻿  datastruct_Graph.cpp
+F:\visual stdio\datastruct_Graph\Adjacency_Matrix_Graph.h(104,1): warning C4715: “Pop_stack”: 不是所有的控件路径都返回值
+F:\visual stdio\datastruct_Graph\Adjacency_Matrix_Graph.h(114,1): warning C4715: “Peek_stack”: 不是所有的控件路径都返回值
+  datastruct_Graph.vcxproj -> F:\visual stdio\datastruct_Graph\x64\Debug\datastruct_Graph.exe
